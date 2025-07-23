@@ -340,14 +340,6 @@ SOFTWARE.
 
 ---
 
-## 📞 Support & Contact
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/rag-clip-multimodal/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/rag-clip-multimodal/discussions)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-
----
 
 ## 🏷️ Keywords
 
